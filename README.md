@@ -1,2 +1,4 @@
 # python-cheatsheet
-Python Cheat-sheet
+Python Cheatsheets
+
+[Python 3 - Core](python3.ipynb)
