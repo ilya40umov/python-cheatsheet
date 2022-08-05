@@ -1,6 +1,11 @@
 # Python-Cheatsheets
 
-* [Python 3 - Core](python3.ipynb)
+* [Python 3 - Core](python3_core.ipynb)
+* [Python 3 - Modules](python3_modules.ipynb)
+* [IPython](ipython.ipynb)
+* [numpy](numpy.ipynb)
+* [pandas](numpy.ipynb)
+* [matplotlib](numpy.ipynb)
 
 ### References
 
