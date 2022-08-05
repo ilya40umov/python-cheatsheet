@@ -4,8 +4,8 @@
 * [Python 3 - Modules](python3_modules.ipynb)
 * [IPython](ipython.ipynb)
 * [numpy](numpy.ipynb)
-* [pandas](numpy.ipynb)
-* [matplotlib](numpy.ipynb)
+* [pandas](pandas.ipynb)
+* [matplotlib](matplotlib.ipynb)
 
 ### References
 
