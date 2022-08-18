@@ -6,6 +6,7 @@
 * [numpy](numpy.ipynb)
 * [pandas](pandas.ipynb)
 * [matplotlib](matplotlib.ipynb)
+* [seaborn](seaborn.ipynb)
 
 ### References
 
