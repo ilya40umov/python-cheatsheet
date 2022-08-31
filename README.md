@@ -7,6 +7,9 @@
 * [pandas](pandas.ipynb)
 * [matplotlib](matplotlib.ipynb)
 * [seaborn](seaborn.ipynb)
+* [patsy](patsy.ipynb)
+* [statsmodels](statsmodels.ipynb)
+* [scikit-learn](scikit-learn.ipynb)
 
 ### References
 
